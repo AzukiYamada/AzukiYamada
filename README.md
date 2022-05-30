@@ -1,3 +1,4 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzukiYamada&show_icons=true&theme=omni&count_private=true)　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzukiYamada&theme=nightowl&langs_count=3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzukiYamada&layout=compact&count_private=true&show_icons=true&theme=omni" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AzukiYamada&count_private=true&show_icons=true&show_icons=true&theme=omni" />
+</p>
